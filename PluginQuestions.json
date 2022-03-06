@@ -1,0 +1,27 @@
+{
+    "type": "Questions",
+    "author": "Rodrigo Silva Coelho",
+    "data":
+    [
+        {
+            "Enunciate": "Assinale a opção que apresenta uma característica INCOMPATÍVEL com a abordagem logística dos suprimentos de materiais na Construção Civil.",
+            "Alternatives": [
+              "Estoque máximo de insumos para evitar paralizações nas obras",
+              "Crescente utilização de componentes pré-fabricados",
+              "Detalhamento e integração entre projetos construtivos",
+              "Produção orientada pelo sistema Just-in-Time"
+            ],
+            "Correct": 0
+        },
+        {
+            "Enunciate": "Assinale a opção que apresenta uma característica INCOMPATÍVEL com a abordagem logística dos suprimentos de materiais na Construção Civil.",
+            "Alternatives": [
+              "Estoque máximo de insumos para evitar paralizações nas obras",
+              "Crescente utilização de componentes pré-fabricados",
+              "Detalhamento e integração entre projetos construtivos",
+              "Produção orientada pelo sistema Just-in-Time"
+            ],
+            "Correct": 0
+        }
+    ]
+}
